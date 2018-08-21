@@ -2,6 +2,8 @@
 // search through the list, sort them by last name, save the entire list to file (contactlist.dat), load
 // a contact list from file (contactlist.dat) and, of course, exit.
 
+// Inputs are checked thoroughly and must be formatted correctly.
+
 // Created by Aaron Mascaro, 2012 for a class assignment.
 
 #include <stdio.h>
