@@ -4,7 +4,7 @@
 
 // Inputs are checked thoroughly and must be formatted correctly.
 
-// Created by Aaron Mascaro, 2012 for a class assignment.
+// Created by Aaron Mascaro, 2012.
 
 #include <stdio.h>
 #include <string.h>
